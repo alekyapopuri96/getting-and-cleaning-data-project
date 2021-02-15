@@ -25,6 +25,7 @@ BodyBody replaced by Body<br/>
 Mag replaced by Magnitude<br/>
 f replaced by Frequency<br/>
 t replaced by Time<br/>
+std replaced by standard deviation
 
 
 
